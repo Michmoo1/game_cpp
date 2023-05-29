@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/object.o.dir/object.cpp.o -o object.o 
