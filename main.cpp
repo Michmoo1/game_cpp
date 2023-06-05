@@ -4,6 +4,8 @@
 int main()
 {
     printf("First\n");
-    car::print_something();
+    car *first_obj = new car;
+    
+    first_obj->print_something();
     return 0;
 }

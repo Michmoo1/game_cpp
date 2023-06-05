@@ -5,9 +5,14 @@
 //Car object
 /////////////////
 
-class car 
+class object
 {
     public:
-        int i;
-        static void print_something();
+        virtual void print_something() = 0;
+};
+class car : public object
+{
+    public:
+        
+        virtual void print_something();
 };

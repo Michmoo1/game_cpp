@@ -1,4 +1,5 @@
 /game
 /main.o
 /object.o
-/CMakeFiles/
+/build/CMakeFiles/game.dir/main.cpp.o
+/build/game
